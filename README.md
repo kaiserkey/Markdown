@@ -79,10 +79,13 @@ supported
 ___
 ### **GitHub supports emoji!**
 :+1: :-1: :sparkles: :camel: :tada:
-:rocket: :metal: :smile: 
+:rocket: :metal: :smiley: :smile: 
 
 <!-- Menciones nombres de usuarios -->
 ___
- [@kaiserkey](https://github.com/kaiserkey)
+
+
+ |[@kaiserkey](https://github.com/kaiserkey)|
+ | - |
 
  ___
