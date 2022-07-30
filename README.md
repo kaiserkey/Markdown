@@ -68,9 +68,21 @@ ___
 
 <!-- Menciones nombres de usuarios -->
 
-@kaiserkey
+ @kaiserkey
 
 ___
 
 <!-- Listas de tareas -->
--[x] Tarea completada
+- [x] Tarea completada
+- [ ] @mentions, #refs, [links](),
+**formatting**, and <del>tags</del>
+supported
+- [ ] Tarea incompleta
+  - [ ] Subtarea incompleta
+  - [x] Subtarea completa
+
+<!-- Emoji -->
+___
+###**GitHub supports emoji!**
+:+1: :-1: :sparkles: :camel: :tada:
+:rocket: :metal: :smile: 
