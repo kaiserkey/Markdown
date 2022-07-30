@@ -83,6 +83,6 @@ supported
 
 <!-- Emoji -->
 ___
-###**GitHub supports emoji!**
+### **GitHub supports emoji!**
 :+1: :-1: :sparkles: :camel: :tada:
 :rocket: :metal: :smile: 
