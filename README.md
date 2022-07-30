@@ -66,12 +66,6 @@ ___
 |TextoFila3|TextoFila3|TextoFIla3|
 ___
 
-<!-- Menciones nombres de usuarios -->
-
- @kaiserkey
-
-___
-
 <!-- Listas de tareas -->
 - [x] Tarea completada
 - [ ] @mentions, #refs, [links](),
@@ -86,3 +80,9 @@ ___
 ### **GitHub supports emoji!**
 :+1: :-1: :sparkles: :camel: :tada:
 :rocket: :metal: :smile: 
+
+<!-- Menciones nombres de usuarios -->
+___
+ [@kaiserkey](https://github.com/kaiserkey)
+
+ ___
