@@ -5,12 +5,9 @@
 
 [1. Titulos](#titulos)
 
-
 [2. Tipos de Resaltado](#tipos-de-resaltado)
 
-
 [3. Combinar Resaltados](#combinacion-de-resaltados)
-
 
 [4. LIstas Desordenadas](#listas-desordenadas)
 [5. LIstas Ordenadas](#listas-ordenadas)
