@@ -4,8 +4,14 @@
 [![markdown.jpg](https://i.postimg.cc/nzSPWWxh/markdown.jpg)](https://postimg.cc/YGgRGbj5)
 
 [1. Titulos](#titulos)
+
+
 [2. Tipos de Resaltado](#tipos-de-resaltado)
+
+
 [3. Combinar Resaltados](#combinacion-de-resaltados)
+
+
 [4. LIstas Desordenadas](#listas-desordenadas)
 [5. LIstas Ordenadas](#listas-ordenadas)
 [6. Enlaces](#enlaces)
