@@ -52,7 +52,7 @@ ___
 ___
 `echo "Hola Mundo";`
 
-```
+```php
 <?php
     echo "Hello World";
 ?>
