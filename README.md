@@ -10,16 +10,27 @@
 [3. Combinar Resaltados](#combinacion-de-resaltados)
 
 [4. LIstas Desordenadas](#listas-desordenadas)
+
 [5. LIstas Ordenadas](#listas-ordenadas)
+
 [6. Enlaces](#enlaces)
+
 [7. Lineas Divisorias](#lineas-divisorias)
+
 [8. CItas y Referencias](#citas-referencias)
+
 [9. Colocacion de Codigo](#colocar-codigo)
+
 [10. Tablas](#tablas)
+
 [11. Listas de Tareas](#listas-de-tareas)
+
 [12. Emojis en GitHub](#github-supports-emoji)
+
 [13. Videos](#videos)
+
 [14. Menciones de Usuarios](#menciones-de-usuarios)
+
 
 <!-- Tutulos -->
 ___
@@ -42,10 +53,15 @@ ___
 # Tipos de Resaltado
 
 *Este es un texto en formato italic*
+
 **Esto es un texto en negrita**
+
 ~~Esto es un texto tachado~~
+
 _Esto es lo mismo que italic_
+
 __Esto es lo mismo que negrita__
+
 
 <!-- Combinando resaltados -->
 
