@@ -92,7 +92,6 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 <!-- Menciones nombres de usuarios -->
 ___
 
-
  |[@kaiserkey](https://github.com/kaiserkey)|
  | - |
 
