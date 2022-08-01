@@ -148,7 +148,7 @@ ___
 
 # GitHub supports emoji!
 
-:hash: :flag-ar:
+:hash: :new_moon_with_face:
 :+1: :-1: :sparkles: :camel: :tada:
 :rocket: :metal: :smiley: :smile: 
 
