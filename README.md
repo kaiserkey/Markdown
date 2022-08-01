@@ -2,6 +2,9 @@
 ### Markdown Cheatsheet
 <!-- Agregar IMagenes -->
 [![markdown.jpg](https://i.postimg.cc/nzSPWWxh/markdown.jpg)](https://postimg.cc/YGgRGbj5)
+___
+
+<!-- Anclas internas hacia encabezados -->
 
 [1. Titulos](#titulos)
 
@@ -43,10 +46,6 @@ ___
 #### Titulo H4
 ##### Titulo H5
 ###### Titulo H6
-<!-- Anclas internas hacia encabezados -->
-___
-
-[Titulo1](#titulo-h1)
 
 <!-- Tipos de resaltado -->
 ___
@@ -75,6 +74,7 @@ ___
 
 # Listas Desordenadas
 
+- Elemento0
 * elemento1
 * elemento2
 * elemento3
@@ -148,6 +148,7 @@ ___
 
 # GitHub supports emoji!
 
+:hash: :flag-ar:
 :+1: :-1: :sparkles: :camel: :tada:
 :rocket: :metal: :smiley: :smile: 
 
