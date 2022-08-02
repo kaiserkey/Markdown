@@ -1,4 +1,4 @@
-# Estructura estandas del lenguaje de marcado **MARKDOWN** para GitHub
+# Estructura estandar del lenguaje de marcado MARKDOWN para GitHub
 ### Markdown Cheatsheet
 <!-- Agregar IMagenes -->
 [![markdown.jpg](https://i.postimg.cc/nzSPWWxh/markdown.jpg)](https://postimg.cc/YGgRGbj5)
